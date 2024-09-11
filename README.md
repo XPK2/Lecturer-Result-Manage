@@ -1,1 +1,1 @@
-ResultManagementSystem
+Result Management System For Lecturer
